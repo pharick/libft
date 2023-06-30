@@ -1,7 +1,7 @@
 # libft
 
-**Статическая библиотека стандартных и не очень функций, написанных на C. Проект, выполненный в Школе 21**
+**A static library of standard and custom functions implemented in C. A project completed at Ecole42.**
 
-## Сборка библиотеки
+## Library Build
 
 make
